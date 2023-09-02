@@ -1,0 +1,23 @@
+jQuery는 자바스크립트 문법이 너무 길어서 
+jQuery를 씀으로 인하여 편리하게 쓸 수 있다
+IDE---> 개발툴
+하나의 그래픽 사용자 인터페이스(Graphical User Interface, GUI)-->윈도우
+command line interface -->리눅스
+
+
+웹 ui 애니메이션 -->Js
+
+
+html 꺽쇠괄호로만 이루어짐
+닫을 때는 태그앞에 /
+html 할 때는 태그 안에 작성할 것
+h1~h6숫자가 커질수록 문자의 크기가 작아짐
+태그는 똑같은 태그로 닫을것
+ul--> li라는 태그가 들어감 
+hr은 태그를 닫지 않음 외워그냥
+style 태그 안에 css가 들어갈 수 있음
+div 웹사이트의 레이아웃(전체적인 틀)을 만들 때 주로 사용함
+RDBMS--> 
+DBMS의 유형은 계층형(Hierarchical), 망형(Network), 관계형(Relational), 객체지향형(Object-Oriented), 객체관계형(Object-Relational) 등으로 분류됩니다. 현재 사용되는 DBMS 중에는 관계형 DBMS가 가장 많은 부분을 차지하며, MySQL도 관계형 DBMS에 포함됩니다. 
+
+
